@@ -30,3 +30,4 @@
 *.exe
 *.out
 *.app
+/Go/.vs/Go/v15
