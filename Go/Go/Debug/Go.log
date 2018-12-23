@@ -1,1 +1,3 @@
-﻿  Go.vcxproj -> C:\Users\ASUS\source\repos\GoGame\Go\Debug\Go.exe
+﻿  Go.cpp
+c:\users\asus\source\repos\gogame\go\go\go.cpp(70): warning C4715: 'message_box': not all control paths return a value
+  Go.vcxproj -> C:\Users\ASUS\source\repos\GoGame\Go\Debug\Go.exe
